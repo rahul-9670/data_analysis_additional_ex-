@@ -1,0 +1,4 @@
+First:
+	ipython nbconvert --to=python Rahul_Patel_additional_exercise_solution.ipynb
+Then:
+	python Rahul_Patel_additional_exercise_solution.py
