@@ -1,2 +1,2 @@
-some_file:
-  echo "hello world"
+execute:
+        jupyter nbconvert --to notebook --execute Rahul_Patel_additional_exercise_solution.ipynb
