@@ -1,2 +1,2 @@
 execute:
-	jupyter nbconvert --to notebook --execute Rahul_Patel_additional_exercise_solution.ipynb
+	jupyter nbconvert --execute --to pdf Rahul_Patel_additional_exercise_solution.ipynb
