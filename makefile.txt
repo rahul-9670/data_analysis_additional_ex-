@@ -1,4 +1,2 @@
-First:
-	ipython nbconvert --to=python Rahul_Patel_additional_exercise_solution.ipynb
-Then:
-	python Rahul_Patel_additional_exercise_solution.py
+execute:
+	jupyter nbconvert --to notebook --execute Rahul_Patel_additional_exercise_solution.ipynb
